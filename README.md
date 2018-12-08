@@ -1,2 +1,2 @@
 # rainbow-bot
-rainbow-bot_24/7
+rainbow-bot-24-7
